@@ -1,0 +1,4 @@
+{
+  "cron": "30 18 * * *",
+  "description": "Send daily quotes to subscribed users at 6:30 PM every day"
+} 
